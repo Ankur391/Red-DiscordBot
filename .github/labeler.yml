@@ -24,6 +24,8 @@
       - "!redbot/cogs/audio/**/locales/*"
   # Docs
   - docs/cog_guides/audio.rst
+  # Tests
+  - tests/cogs/audio/**/*
 "Category: Cogs - Bank": []  # historical label for a removed cog
 "Category: Cogs - Cleanup":
   # Source
@@ -252,6 +254,7 @@
 "Category: Docs - Changelogs":
   - CHANGES.rst
   - docs/changelog.rst
+  - docs/incompatible_changes/**/*
 "Category: Docs - For Developers":
   - docs/framework_events.rst
   - docs/guide_cog_creation.rst
